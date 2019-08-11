@@ -9,8 +9,14 @@
 ### to the Pantheon repository.
 ###
 
+# Because of CI, ignore everything but composer
+web/*
+vendor/*
+.gitignore
+
 # Ignore Drupal's file directory
 web/sites/default/files
+
 
 # Pantheon commits a settings.php for environment-specific settings.
 # Place local settings in settings.local.php
