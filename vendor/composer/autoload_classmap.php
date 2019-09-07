@@ -1436,6 +1436,7 @@ return array(
     'Drupal\\Console\\Command\\Role\\NewCommand' => $vendorDir . '/drupal/console/src/Command/Role/NewCommand.php',
     'Drupal\\Console\\Command\\Router\\RebuildCommand' => $vendorDir . '/drupal/console/src/Command/Router/RebuildCommand.php',
     'Drupal\\Console\\Command\\ServerCommand' => $vendorDir . '/drupal/console/src/Command/ServerCommand.php',
+    'Drupal\\Console\\Command\\Service\\OverrideCommand' => $vendorDir . '/drupal/console/src/Command/Service/OverrideCommand.php',
     'Drupal\\Console\\Command\\Shared\\ArrayInputTrait' => $vendorDir . '/drupal/console/src/Command/Shared/ArrayInputTrait.php',
     'Drupal\\Console\\Command\\Shared\\ConfirmationTrait' => $vendorDir . '/drupal/console/src/Command/Shared/ConfirmationTrait.php',
     'Drupal\\Console\\Command\\Shared\\ConnectTrait' => $vendorDir . '/drupal/console/src/Command/Shared/ConnectTrait.php',
