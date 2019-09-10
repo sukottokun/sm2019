@@ -2066,7 +2066,6 @@ class ComposerStaticInitdcc83c3cda3496502dce7f2eded861ef
         'Drupal\\Console\\Command\\Role\\NewCommand' => __DIR__ . '/..' . '/drupal/console/src/Command/Role/NewCommand.php',
         'Drupal\\Console\\Command\\Router\\RebuildCommand' => __DIR__ . '/..' . '/drupal/console/src/Command/Router/RebuildCommand.php',
         'Drupal\\Console\\Command\\ServerCommand' => __DIR__ . '/..' . '/drupal/console/src/Command/ServerCommand.php',
-        'Drupal\\Console\\Command\\Service\\OverrideCommand' => __DIR__ . '/..' . '/drupal/console/src/Command/Service/OverrideCommand.php',
         'Drupal\\Console\\Command\\Shared\\ArrayInputTrait' => __DIR__ . '/..' . '/drupal/console/src/Command/Shared/ArrayInputTrait.php',
         'Drupal\\Console\\Command\\Shared\\ConfirmationTrait' => __DIR__ . '/..' . '/drupal/console/src/Command/Shared/ConfirmationTrait.php',
         'Drupal\\Console\\Command\\Shared\\ConnectTrait' => __DIR__ . '/..' . '/drupal/console/src/Command/Shared/ConnectTrait.php',
