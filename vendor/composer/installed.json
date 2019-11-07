@@ -2386,17 +2386,17 @@
     },
     {
         "name": "drupal/core",
-        "version": "8.7.8",
-        "version_normalized": "8.7.8.0",
+        "version": "8.7.9",
+        "version_normalized": "8.7.9.0",
         "source": {
             "type": "git",
             "url": "https://github.com/drupal/core.git",
-            "reference": "476f491b85306c09101106d9b66a5dbe73c21bf0"
+            "reference": "881e60062ea86a8f6809a298f09f56afd20b3cf3"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/drupal/core/zipball/476f491b85306c09101106d9b66a5dbe73c21bf0",
-            "reference": "476f491b85306c09101106d9b66a5dbe73c21bf0",
+            "url": "https://api.github.com/repos/drupal/core/zipball/881e60062ea86a8f6809a298f09f56afd20b3cf3",
+            "reference": "881e60062ea86a8f6809a298f09f56afd20b3cf3",
             "shasum": ""
         },
         "require": {
@@ -2574,7 +2574,7 @@
             "symfony/debug": "^3.4.0",
             "symfony/phpunit-bridge": "^3.4.3"
         },
-        "time": "2019-10-02T18:41:30+00:00",
+        "time": "2019-11-06T18:00:38+00:00",
         "type": "drupal-core",
         "extra": {
             "merge-plugin": {
@@ -7301,17 +7301,17 @@
     },
     {
         "name": "webflo/drupal-core-strict",
-        "version": "8.7.8",
-        "version_normalized": "8.7.8.0",
+        "version": "8.7.9",
+        "version_normalized": "8.7.9.0",
         "source": {
             "type": "git",
             "url": "https://github.com/webflo/drupal-core-strict.git",
-            "reference": "21784560e6c9af85219d61f7f8941586d1b91fff"
+            "reference": "4ff8bdb944988f0f880141bdceb55d06afca80ba"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/21784560e6c9af85219d61f7f8941586d1b91fff",
-            "reference": "21784560e6c9af85219d61f7f8941586d1b91fff",
+            "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/4ff8bdb944988f0f880141bdceb55d06afca80ba",
+            "reference": "4ff8bdb944988f0f880141bdceb55d06afca80ba",
             "shasum": ""
         },
         "require": {
@@ -7403,7 +7403,7 @@
             "symfony/dom-crawler": "v3.4.26",
             "symfony/phpunit-bridge": "v3.4.26"
         },
-        "time": "2019-10-02T19:30:48+00:00",
+        "time": "2019-11-06T18:30:48+00:00",
         "type": "metapackage",
         "notification-url": "https://packagist.org/downloads/",
         "license": [
